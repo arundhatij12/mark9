@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body{
+  background-color:black;
+}
+
+button:hover {
+  background:rgb(117, 76, 76);
+}
