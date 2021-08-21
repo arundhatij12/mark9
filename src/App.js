@@ -17,6 +17,12 @@ const bookList = {
       RATINGS: "4/5",
       SYNOPSIS:
         "Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability."
+    },
+    {
+      NAME: "javascript.info",
+      RATINGS: "4/5",
+      SYNOPSIS:
+        "get the fundamentals of javascript and in depth understanding of the quirks of the language."
     }
   ],
   Fiction: [
@@ -31,6 +37,12 @@ const bookList = {
       RATINGS: "4/5",
       SYNOPSIS:
         "Pride and Prejudice is an 1813 romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. Its humour lies in its honest depiction of manners, education, marriage, and money during the Regency era in England."
+    },
+    {
+      NAME: " Jane Eyre",
+      RATINGS: "4/5",
+      SYNOPSIS:
+        "Jane Eyre is a novel by English writer Charlotte Brontë, published under the pen name  on 16 October 1847, by Smith, Elder & Co. of London. The first American edition was published the following year by Harper & Brothers of New York.[1] Jane Eyre is a Bildungsroman which follows the experiences of its eponymous heroine, including her growth to adulthood and her love for Mr. Rochester, the brooding master of Thornfield Hall"
     }
   ],
 
